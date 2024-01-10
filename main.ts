@@ -144,4 +144,4 @@ mySprite = sprites.create(img`
 mySprite.setScale(1, ScaleAnchor.Bottom)
 mySprite.y = 40
 pause(500)
-game.showLongText("Press 'A' to hide your problems and 'B' when you're ready to face them ", DialogLayout.Bottom)
+game.showLongText("Press 'c' to hide your problems and 'B' when you're ready to face them ", DialogLayout.Bottom)
